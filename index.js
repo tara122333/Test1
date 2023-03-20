@@ -11,10 +11,6 @@
   </head>
   <body>
     <h1>This is Tara Chand </h1>
-
-
-{/* Tara  */}
-<h2>Tara CHand </h2>
     <h1>Hello Boss here </h1>
     <h1>this is boss</h1>
   </body>
